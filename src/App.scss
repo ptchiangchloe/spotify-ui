@@ -1,0 +1,16 @@
+.App {
+  width: 500px;
+  height: 800px;
+  border: black solid 1px;
+  margin: 0 auto;
+  
+  .search-bar {
+    position: relative;
+
+    .search-icon {
+      position: absolute;
+      top: 0;
+      right: 0;
+    }
+  }
+}
